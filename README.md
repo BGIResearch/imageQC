@@ -10,3 +10,7 @@ STOmics microscope ImageQC software is intended for assessing the quality of mic
 •	Operating system: Windows 10 - 64 bit 
 
 •	Connection requirement: not necessary unless image uploading to a computer cluster or cloud is required (refer to section 4.2, step 10 for details). 
+
+## Download links
+https://bgitech-my.sharepoint.com/:u:/g/personal/laixiaorong_genomics_cn/EcKcoTEIVaxNkWM7pjmVcLABMyqWYYTgPvFhcOmWpE9odQ?e=Whc4S8 password: genomics
+https://pan.genomics.cn/ucdisk/s/6r2M3i
