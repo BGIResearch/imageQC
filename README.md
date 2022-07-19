@@ -12,6 +12,21 @@ STOmics microscope ImageQC software is intended for assessing the quality of mic
 •	Connection requirement: not necessary unless image uploading to a computer cluster or cloud is required (refer to section 4.2, step 10 for details). 
 
 ## Download links
-OneDrive: https://bgitech-my.sharepoint.com/:u:/g/personal/laixiaorong_genomics_cn/EcKcoTEIVaxNkWM7pjmVcLABMyqWYYTgPvFhcOmWpE9odQ?e=Whc4S8 password: genomics
 
-GenomicsPan: https://pan.genomics.cn/ucdisk/s/6r2M3i
+### V1.0.7
+#### OneDrive
+link: https://bgitech-my.sharepoint.com/:u:/g/personal/laixiaorong_genomics_cn/EcKcoTEIVaxNkWM7pjmVcLABMyqWYYTgPvFhcOmWpE9odQ?e=Whc4S8 
+password: genomics
+
+#### GenomicsPan
+link: https://pan.genomics.cn/ucdisk/s/6r2M3i
+
+### V1.0.8
+#### oneDrive 
+link: https://bgitech-my.sharepoint.com/:u:/g/personal/laixiaorong_genomics_cn/EcFWTz8jRmZCvEcHfYZZzWABOO6PYwdeF4EuFtpbCHz30g?e=ygOOh6
+password: genomics
+
+#### GenomicsPan
+link: https://pan.genomics.cn/ucdisk/s/VRFrau
+password: 209763
+
