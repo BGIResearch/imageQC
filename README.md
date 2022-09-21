@@ -30,3 +30,10 @@ password: genomics
 link: https://pan.genomics.cn/ucdisk/s/VRFrau
 password: 209763
 
+### V1.1.3
+#### OneDrive
+https://bgitech-my.sharepoint.com/:u:/g/personal/hanqingju_genomics_cn/EfA5T32vIIVCuFES4LT43p0BAZaEHIzU4Or0_69tgRuYpg?e=CJooJ2
+#### GenomicsPan
+link: https://pan.genomics.cn/ucdisk/s/Vf2yM3
+
+
