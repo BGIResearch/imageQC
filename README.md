@@ -1,6 +1,6 @@
 # ImageQC
 ## brief introduction
-STOmics microscope ImageQC software is intended for assessing the quality of microscope images. Besides resolution and sharpness, it also evaluates stitching quality of a STOmics chip image by referring to the background track lines. The ImageQC software has two main applications. Firstly, a fluorescent image of a tissue mounted S1 chip (STOmics, Cat. No.: 1000028487) should pass the ImageQC evaluation to ensure that it fulfills requirements for the downstream data analysis via SAW pipelines. Secondly, with the aid of a STOmics test chip (BGI, Cat. No.: 1000029779), the software can also be used to assess if a microscope is compatible with the STOmics protocols. 
+STOmics microscope ImageQC software is intended for assessing the quality of microscope images. Besides resolution and sharpness, it also evaluates stitching quality of a Stereo-seq chip image by referring to the background track lines. The ImageQC software has two main applications. Firstly, with the aid of a STOmics Microscope Assessment Chip T (1cm*1cm) (STOmics, Cat. No.: 101CT111), the software can be used to assess if a microscope is compatible with the STOmics protocols. Secondly, a fluorescent image of a tissue mounted Chip T (STOmics, Cat. No.: 111CT114) should pass the ImageQC evaluation to ensure that it fulfills requirements for the downstream data analysis via SAW pipelines.
 
  
 ## Computer system requirements 
@@ -30,4 +30,9 @@ password: genomics
 link: https://pan.genomics.cn/ucdisk/s/VRFrau
 password: 209763
 
+### V1.1.3
+#### oneDrive 
+link:https://bgitech-my.sharepoint.com/:u:/g/personal/hanqingju_genomics_cn/EfA5T32vIIVCuFES4LT43p0BAZaEHIzU4Or0_69tgRuYpg?e=CJooJ2
 
+#### GenomicsPan
+link: https://pan.genomics.cn/ucdisk/s/Vf2yM3
